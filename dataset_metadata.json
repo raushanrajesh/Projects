@@ -1,0 +1,12 @@
+{
+    "raw_dataset": {
+        "source": "churn.csv",
+        "timestamp": "2025-03-12 20:10:20",
+        "change_log": "Initial raw dataset loaded"
+    },
+    "transformed_dataset": {
+        "source": "TransformedDataDB",
+        "timestamp": "2025-03-12 20:10:20",
+        "change_log": "Data transformed and loaded into database"
+    }
+}

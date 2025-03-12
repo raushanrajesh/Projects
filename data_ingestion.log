@@ -1,0 +1,21 @@
+2025-03-12 17:05:27,371 - INFO - CSV Data Source Loaded Successfully
+2025-03-12 17:05:30,034 - INFO - Kaggle Data Source Loaded Successfully
+2025-03-12 17:51:00,904 - INFO - package: mysql.connector.plugins
+2025-03-12 17:51:00,904 - INFO - plugin_name: caching_sha2_password
+2025-03-12 17:51:00,904 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-03-12 19:01:24,380 - INFO - CSV Data Source Loaded Successfully
+2025-03-12 19:01:27,095 - INFO - Kaggle Data Source Loaded Successfully
+2025-03-12 19:04:14,188 - INFO - package: mysql.connector.plugins
+2025-03-12 19:04:14,190 - INFO - plugin_name: caching_sha2_password
+2025-03-12 19:04:14,190 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-03-12 19:20:32,340 - INFO - Reading the config from C:\Users\palla/airflow\airflow.cfg
+2025-03-12 19:21:30,313 - INFO - Reading the config from C:\Users\palla/airflow\airflow.cfg
+2025-03-12 19:24:39,345 - INFO - Reading the config from C:\Users\palla/airflow\airflow.cfg
+2025-03-12 19:25:08,716 - INFO - Reading the config from C:\Users\palla/airflow\airflow.cfg
+2025-03-12 19:27:01,301 - INFO - Reading the config from C:\Users\palla/airflow\airflow.cfg
+2025-03-12 19:28:57,536 - INFO - Reading the config from C:\Users\palla/airflow\airflow.cfg
+2025-03-12 20:09:34,310 - INFO - CSV Data Source Loaded Successfully
+2025-03-12 20:09:36,875 - INFO - Kaggle Data Source Loaded Successfully
+2025-03-12 20:10:18,439 - INFO - package: mysql.connector.plugins
+2025-03-12 20:10:18,439 - INFO - plugin_name: caching_sha2_password
+2025-03-12 20:10:18,439 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin

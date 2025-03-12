@@ -1,0 +1,14 @@
+apache-airflow==2.10.5
+scikit-learn==1.2.2
+joblib==1.1.1
+boto3==1.35.67
+scipy==1.15.1
+matplotlib==3.7.2
+schedule==1.2.2
+kaggle==1.6.17
+pandas==2.2.3
+PyMySQL==1.1.1
+mysql-connector-python==9.2.0
+SQLAlchemy==1.2.19
+SQLAlchemy-JSONField==1.0.2
+SQLAlchemy-Utils==0.41.2
